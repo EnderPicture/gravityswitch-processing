@@ -1,8 +1,6 @@
 /**
 * this stores the ceckpoint info. populated when loading and at time of crossing
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class CheckPoint {
   PVector loc;

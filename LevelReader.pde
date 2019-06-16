@@ -3,8 +3,6 @@
 * world to copy over. The main part of the level loader is inside the main sketch
 * because of multitreading.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class LevelReader{
 

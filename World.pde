@@ -2,8 +2,6 @@
 * Contians the world and its functions, like menus, constant gravity force,
 * camera, and much more.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class World {
 

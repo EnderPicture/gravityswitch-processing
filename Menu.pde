@@ -1,8 +1,6 @@
 /**
 * Base code for a menu object. It can go up and out of the way, or down to cover the whole screen.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Menu extends GameObject {
 

@@ -1,8 +1,6 @@
 /**
 * Menu that shows when the player pressed pause or at the start of the game.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class MenuPause extends Menu {
   // button

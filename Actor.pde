@@ -1,8 +1,6 @@
 /**
 * To be used when box collision with rotation is needed
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Actor extends GameObject{
 

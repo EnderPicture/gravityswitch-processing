@@ -2,8 +2,6 @@
 * This is a custom button. Did not like that thrid part library as I could not
 * dynamically move it, tell it when to render, and follow transltations.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Button {
   // where is the button being rendered

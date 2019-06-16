@@ -2,8 +2,6 @@
 * The camera 2d class does the main translation of the game. acting as a camera moving around
 * it does the movements smoothly, thus not 100% on the target all the time.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Cam2D extends GameObject {
   // how fast the camera moves

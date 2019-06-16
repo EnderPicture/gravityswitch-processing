@@ -1,8 +1,6 @@
 /**
 * Menu that shows when the player dies. Random deathmessages will show up.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class MenuDeath extends Menu {
   // button

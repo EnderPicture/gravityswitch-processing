@@ -2,8 +2,6 @@
 * This class is called platform, but it is much more than that. It can be trigger blocks too
 * Things like checkpoint flags are made using a confiuration of platform atributs.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Platform extends Actor {
   // tells the collided object if the platform have gravity on that face.

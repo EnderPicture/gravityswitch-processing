@@ -1,8 +1,6 @@
 /**
 * Menu that shows when the player wins
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class MenuWin extends Menu {
   // button

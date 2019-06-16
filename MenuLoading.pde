@@ -1,8 +1,6 @@
 /**
 * Menu that shows when the game is loading
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class MenuLoading extends Menu{
 

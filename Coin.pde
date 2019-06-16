@@ -1,8 +1,6 @@
 /**
 * This is a coin, a trigger object by default
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Coin extends Actor{
   /**

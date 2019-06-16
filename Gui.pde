@@ -1,8 +1,6 @@
 /**
 * The coins panel at the top right of the screen.
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Gui extends Menu{
   PImage scoreImage;

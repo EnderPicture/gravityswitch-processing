@@ -1,8 +1,6 @@
 /**
 * Player object. Uses input from the keyboard
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class Player extends Actor {
 

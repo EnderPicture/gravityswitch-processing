@@ -1,8 +1,6 @@
 /**
 * The GameObject class consists of simple physics calculations and image based animations
 *
-* @author  Donny Wu
-* @version 1.0
 */
 class GameObject{
 
